@@ -1,0 +1,95 @@
+.emoji{
+     position: relative;
+     margin-left: 8rem;
+     margin-top: 8rem;
+    }
+    .face{
+     width: 20rem;
+     height: 20rem;
+     position: absolute;
+    border-radius: 50%;
+     background-color: rgb(22, 109, 90);
+    }
+    .eye1{
+    width: 4rem;
+     height: 4rem;
+    position: absolute;
+    border-radius: 50%;
+     background-color: white;
+     margin-left: 4.5rem;
+    margin-top: 4.5rem;
+    }
+    .eyeball1{
+    width: 2rem;
+     height: 2rem;
+     position: absolute;
+     border-radius: 50%;
+     background-color: black;
+     margin-left: 5.7rem;
+     margin-top: 6.4rem;
+    }
+    .eye2{
+     width: 4rem;
+     height: 4rem;
+     position: absolute;
+    border-radius: 50%;
+    background-color: white;
+     margin-left: 11rem;
+   margin-top: 4.5rem;
+    }
+    .eyeball2{
+     width: 2rem;
+     height: 2rem;
+     position: absolute;
+     border-radius: 50%;
+     background-color: black;
+     margin-left: 12rem;
+     margin-top: 6.4rem;
+    }
+    .nose{
+     width: 8rem;
+     height: 4rem;
+    position: absolute;
+    border-radius: 40px 40px 40px 40px;
+    background-color: rgb(172, 99, 40);
+     margin-left: 5.5rem;
+     margin-top: 12rem;
+    }
+    .noseball1{
+     width: 2rem;
+     height: 2rem;
+     position: absolute;
+    border-radius: 50%;
+     background-color: rgb(66, 13, 13) ;
+     margin-left: 1rem;
+     margin-top: 1rem;
+    }
+    .noseball2{
+     width: 2rem;
+     height: 2rem;
+     position: absolute;
+    border-radius: 50%;
+     background-color: rgb(70, 16, 16) ;
+     margin-left: 5rem;
+     margin-top: 1rem;
+    }
+    .ear1{
+     width: 6rem;
+     height: 8rem;
+     position: absolute;
+     border-radius: 50px 50px 0px 20px;
+    background-color: rgb(83, 51, 15);
+     margin-left: 2rem;
+     margin-top: -1rem;
+     z-index: -1;
+    }
+    .ear2{
+    width: 6rem;
+     height: 8rem;
+     position: absolute;
+     border-radius: 50px 50px 0px 0px;
+     background-color: rgb(75, 43, 16);
+     margin-left: 12rem;
+     margin-top: -1rem;
+     z-index: -1;
+    }
